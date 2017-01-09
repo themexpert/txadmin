@@ -5,14 +5,14 @@
                 <description>TX Admin</description>
                 <element>txadmin</element>
                 <type>plugin</type>
-                <version>1.1.0</version>
+                <version>1.1</version>
                 <client>site</client>
-                <infourl title="TX Admin">https://github.com/themexpert/txadmin/releases/tag/1.1</infourl>
+                <infourl title="TX Admin">https://github.com/themexpert/txadmin/releases/tag/v1.1</infourl>
                 <downloads>
                         <downloadurl type="full" format="zip">https://github.com/themexpert/txadmin/archive/master.zip</downloadurl>
                 </downloads>
                 <tags>
-                        <tag>1.1.0</tag>
+                        <tag>1.1</tag>
                 </tags>
                 <targetplatform name="joomla" version="3.0" />
         </update>
