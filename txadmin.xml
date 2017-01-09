@@ -10,6 +10,11 @@
     <version>1.1</version>
     <description>Tx Admin</description>
 
+    <!-- UPDATESERVER DEFINITION -->
+    <updateservers>
+        <server type="extension" priority="1" name="Xpert Contact Update">https://raw.githubusercontent.com/themexpert/xpertcontact/master/mainfest.xml</server>
+    </updateservers>
+
 	<files>
         <filename plugin="txadmin">txadmin.php</filename>
         <folder>assets</folder>
